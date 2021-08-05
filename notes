@@ -1,0 +1,2 @@
+IN a controlled component, form data is handled by a React component. the alternative is uncontrolled components, where form data is 
+handled by the DOM itself.
